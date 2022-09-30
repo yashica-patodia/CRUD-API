@@ -1,0 +1,23 @@
+[
+    {
+        "id": "2",
+        "name": "Yashica Patodia",
+        "email_id": "yashica@gmail.com",
+        "phone_number": "1234567899",
+        "description": "Customer Lead"
+    },
+    {
+        "id": "3",
+        "name": "Yash Patodia",
+        "email_id": "yash@gmail.com",
+        "phone_number": "1234567898",
+        "description": "Good Value"
+    },
+    {
+        "id": "4",
+        "name": "Ajay Patodia",
+        "email_id": "ajay@gmail.com",
+        "phone_number": "1234567898",
+        "description": "Good Value"
+    }
+]
